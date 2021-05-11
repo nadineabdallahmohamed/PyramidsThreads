@@ -1,4 +1,4 @@
-package ;
+package threadsPyramids;
 public class Pyramid {
 	
 	protected String pharaoh;
