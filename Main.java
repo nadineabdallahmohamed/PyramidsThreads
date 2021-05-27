@@ -1,4 +1,4 @@
-package threadsPyramids;
+package PyramidsThreads;
 
 public class Main {
 
